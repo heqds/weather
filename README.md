@@ -1,6 +1,1 @@
-I know this is really simple, but shush
-
-Usage: Put in Visual studio code,
-       run,
-       enter city
-       boom you got the weather
+Download link for EXE: https://www.mediafire.com/file/q4uukumonelkc3v/weather.exe/file (I know this app/whatever you wnana call it is rlly simple but I am bad at coding so yeah)
