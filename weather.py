@@ -22,5 +22,7 @@ if response.status_code == 200:
     print("Temperature minimum:", temp_min)
     print("Temperature max", temp_max)
 
+    input()
+    
 else:
     print("Error please enter a valid city.")
